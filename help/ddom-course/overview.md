@@ -1,24 +1,24 @@
 ---
-title: Adobeデータ駆動型オペレーティングモデル
+title: アドビのデータドリブンオペレーティングモデル（DDOM）
 description: これは記事の概要です。
-keywords: DDOM，デジタル変換
-translation-type: tm+mt
+keywords: DDOM, デジタル変革
+translation-type: ht
 source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Adobeデータ駆動オペレーティングモデル(DDOM)
+# アドビのデータドリブンオペレーティングモデル（DDOM）
 
-Adobeデータ駆動オペレーティングモデル(DDOM)の概要へようこそ。 このコースでは、[!DNL Adobe Digital Strategy Group]から、Adobeのデジタル変換のストーリー、DDOMの3つの中核となる要素、DDOMによって解明されたサンプルインサイトについて学びます。
+アドビのデータドリブンオペレーティングモデル（DDOM）の概要へようこそ。このコースでは、[!DNL Adobe Digital Strategy Group] が、アドビのデジタル変革、DDOM の 3 つの主要な柱、DDOM によって獲得されるインサイトの例について説明します。
 
-* [DDOMの概要](ddom-introduction.md)
-* [Adobeデジタル変換のストーリー](transformation-story.md)
-* [DDOMの3本の柱](ddom-components.md)
-* [DDOMで解読されたインサイト](ddom-insights.md)
+* [DDOM について](ddom-introduction.md)
+* [アドビのデジタル変革](transformation-story.md)
+* [DDOM の 3 つの主要な柱](ddom-components.md)
+* [DDOM によって獲得されるインサイト](ddom-insights.md)
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
