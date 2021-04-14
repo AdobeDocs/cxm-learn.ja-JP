@@ -1,61 +1,61 @@
 ---
 source-git-commit: 5b7003822348e0bf678ac65036d58b4ec3f65c0f
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '430'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
-# Contribute記事
+# 記事の投稿
 
-ドキュメントチーム以外のAdobe社員の方々から、コミュニティからの寄付を歓迎します。
+コミュニティからの投稿のほか、ドキュメントチーム以外のアドビ従業員からの投稿を歓迎します。
 
-## Adobeオープンソースコード
+## アドビオープンソース行動規範
 
-このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md) または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[投稿](contributing.md)の記事を参照してください。
+このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md)または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[コントリビューション](contributing.md)の記事を参照してください。
 
-## Adobeコンテンツへの貢献について
+## アドビコンテンツへのコントリビューションについて
 
-『[Adobeドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)』を参照してください。
+[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
 
-貢献の方法は、自分が何者であるか、また、貢献したい変更の種類によって異なります。
+コントリビューションの方法は、ユーザーのタイプやコントリビュートする変更の種類によって異なります。
 
-### 小さな変更
+### 軽微な変更
 
-心の良さからマイナーアップデートを行う場合は、記事にアクセスし、記事のGitHubソースに移動する記事の&#x200B;**編集**&#x200B;リンクをクリックします。 次に、GitHub UIを使用して更新を行います。 詳しくは、一般的な[Adobeドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+善意に基づいて軽微な変更をコントリビュートする場合は、記事にアクセスして「**Edit**」リンクをクリックし、記事の GitHub ソースに移動します。次に、GitHub UI を使用して更新を行います。詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
 
-このレポートのドキュメントやコード例に関して提出する小さな修正や説明は、Adobe利用条件でカバーされます。
+このリポジトリーのドキュメントやコード例に関して提供される軽微な変更は、アドビの利用条件の対象となります。
 
-### コミュニティメンバーからの主な変更または新しい記事
+### コミュニティメンバーからの重大な変更または新しい記事
 
-Adobeコミュニティに属していて、新しい記事を作成したり、大きな変更を送信したりする場合は、Gitリポジトリの「問題」タブを使用して、ドキュメントチームとの会話を開始に送信してください。 計画に同意したら、公共のリポジトリと私的なリポジトリの組み合わせを通して新しいコンテンツを持ち込むのに役立つよう、従業員と協力する必要があります。
+アドビコミュニティのメンバーが、新しい記事を作成したり、重大な変更を提供したりする場合は、Git リポジトリーの「Issues」タブを使用して問題を送信し、ドキュメントチームとの対話を開始してください。対話の結果、合意できたら、アドビの従業員と協力して、パブリックリポジトリーとプライベートリポジトリーでの作業を組み合わせ、その新しいコンテンツを取り込む必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Adobeの従業員からの主な変更
+### アドビの従業員からの重大な変更
 
-Adobe Experience Cloudソリューションのテクニカルライター、プログラムマネージャ、または製品チームの開発者で、お客様が技術記事の提供や作成を行う場合は、`https://git.corp.adobe.com/AdobeDocs`のプライベートリポジトリを使用する必要があります。
+Adobe Experience Cloud ソリューションの製品チームのテクニカルライター、プログラムマネージャー、または開発者が、技術記事のコントリビューションや作成を担当している場合、`https://git.corp.adobe.com/AdobeDocs` にあるプライベートリポジトリーを使用する必要があります。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## ツールとセットアップ
 
-コミュニティの寄稿者は、基本的な編集にGitHub UIを使用したり、レポのフォークを使用して大きな貢献を行ったりできます。
+コミュニティのコントリビューターは、GitHub UI を使用して基本的な編集を行えます。また、リポジトリーをフォーク（コピー）して、重要なコントリビューションを行うこともできます。
 
-詳しくは、『[Adobeドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)』を参照してください。
+詳しくは、[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
 
-## マークダウンを使用してトピックをフォーマットする方法
+## マークダウンを使用してトピックのテキストを整形する方法
 
-このリポジトリ内のすべての記事は、GitHubフレーバー付きのマークダウンを使用しています。 マークダウンに詳しくない場合は、次を参照してください。
+このリポジトリー内のすべての記事で、GitHub Flavored Markdown（GFM）を使用しています。マークダウンに詳しくない場合は、次の記事を参照してください。
 
 * [マークダウンの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [印刷可能なMarkDownチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [印刷可能なマークダウンクイックガイド](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
-パブリック・リポジトリでは、プル・リクエストのワークフローを管理し、プル・リクエストの状況を把握できるように、プル・リクエストの自動ラベルが割り当てられます。
+パブリックリポジトリーでは、プルリクエストにラベルが自動で割り当てられるので、アドビがプルリクエストのワークフローを管理したり、リクエストした人がプルリクエストの状態を把握しやすくなります。
 
-* **変更の作成者への送信**:作成者は保留中のプル要求を通知されました。
-* **ready-to-merge**:引き出し要求レビューチームによるレビューの準備が整いました。
+* **Change sent to author**：保留中のプルリクエストがオーサーに送信されました。
+* **ready-to-merge**：プルリクエストレビューチームによるレビューの準備が整いました。
