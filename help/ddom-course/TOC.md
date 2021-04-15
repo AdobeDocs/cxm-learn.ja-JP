@@ -1,23 +1,23 @@
 ---
-user-guide-title: Adobeデータ駆動オペレーティングモデルガイド
-breadcrumb-title: Data-Drivent Operating Model Guide
-user-guide-description: Adobeのデータ駆動オペレーティングモデルの使用方法については、次のビデオをご覧ください。
+user-guide-title: アドビのデータドリブンオペレーティングモデル（DDOM）ガイド
+breadcrumb-title: データドリブンオペレーティングモデル（DDOM）ガイド
+user-guide-description: アドビのデータドリブンオペレーティングモデル（DDOM）の使用方法については、これらのビデオをご覧ください。
 solution: Experience Cloud
-type: チュートリアル
+type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 100%
 
 ---
 
 
-# Adobeデータ駆動オペレーティングモデルガイド{#ddom}
+# アドビのデータドリブンオペレーティングモデル（DDOM）ガイド {#ddom}
 
 + [概要](overview.md)
-+ [DDOMの概要](ddom-introduction.md)
-+ [Adobeデジタル変換のストーリー](transformation-story.md)
-+ [DDOMの3本の柱](ddom-components.md)
-+ [DDOMで解読されたインサイト](ddom-insights.md)
++ [DDOM について](ddom-introduction.md)
++ [アドビのデジタル変革](transformation-story.md)
++ [DDOM の 3 つの主要な柱](ddom-components.md)
++ [DDOM によって獲得されるインサイト](ddom-insights.md)
