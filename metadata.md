@@ -1,10 +1,9 @@
 ---
 cloud: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/cxm-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/cxm-learn.ja-JP
 index: false
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '130'
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 # 内部使用のためのメタデータ
 
-metadata.md ファイルには、リポジトリー内のユーザーガイド TOC.md ファイルに渡されるリポジトリーレベルのメタデータが含まれます。ユーザーガイドの metadata.md コンテンツを変更する場合は、任意の TOC.md ファイルで行います。
+metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれます。ユーザーガイドの metadata.md コンテンツを変更する場合は、任意の TOC.md ファイルで行います。
 
 | メタデータ | 動作 |
 |--- |--- |
