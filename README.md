@@ -1,61 +1,60 @@
 ---
-source-git-commit: 5b7003822348e0bf678ac65036d58b4ec3f65c0f
-workflow-type: ht
-translation-type: ht
-source-wordcount: '430'
-ht-degree: 100%
+source-git-commit: c864b410a9e7d9f428cdcc889ffe7d58b9c4f35b
+workflow-type: tm+mt
+source-wordcount: '424'
+ht-degree: 95%
 
 ---
-# 記事の投稿
+# 貢献に関する記事
 
-コミュニティからの投稿のほか、ドキュメントチーム以外のアドビ従業員からの投稿を歓迎します。
+アドビのコミュニティやドキュメントチーム以外の従業員からの貢献を歓迎します。
 
 ## アドビオープンソース行動規範
 
-このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md)または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[コントリビューション](contributing.md)の記事を参照してください。
+このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md)または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、[貢献](contributing.md)の記事を参照してください。
 
-## アドビコンテンツへのコントリビューションについて
+## アドビコンテンツへの貢献について
 
-[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
+[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
-コントリビューションの方法は、ユーザーのタイプやコントリビュートする変更の種類によって異なります。
+どのように貢献するかは、貢献者の技術経験度と、貢献者がどのような変更に貢献したいかによって異なります。
 
 ### 軽微な変更
 
-善意に基づいて軽微な変更をコントリビュートする場合は、記事にアクセスして「**Edit**」リンクをクリックし、記事の GitHub ソースに移動します。次に、GitHub UI を使用して更新を行います。詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
+善意で軽微な更新を行う場合は、その記事にアクセスして、「**編集**」リンクをクリックすると、その記事の GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。詳しくは、一般的な[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
-このリポジトリーのドキュメントやコード例に関して提供される軽微な変更は、アドビの利用条件の対象となります。
+このリポジトリのドキュメントおよびコード例について送信した軽微な修正または説明には、アドビの利用条件が適用されます。
 
-### コミュニティメンバーからの重大な変更または新しい記事
+### コミュニティメンバーからの大きな変更または新しい記事
 
-アドビコミュニティのメンバーが、新しい記事を作成したり、重大な変更を提供したりする場合は、Git リポジトリーの「Issues」タブを使用して問題を送信し、ドキュメントチームとの対話を開始してください。対話の結果、合意できたら、アドビの従業員と協力して、パブリックリポジトリーとプライベートリポジトリーでの作業を組み合わせ、その新しいコンテンツを取り込む必要があります。
+アドビコミュニティの一員として、新しい記事を作成したり大きな変更を送信したりする場合は、Git リポジトリの「Issues」タブを使用して問題を送信し、ドキュメントチームとの会話を開始してください。計画に同意したら、パブリックリポジトリおよびプライベートリポジトリでの作業を組み合わせて新しいコンテンツを取り込むために従業員と協力する必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### アドビの従業員からの重大な変更
+### アドビ従業員からの大きな変更
 
-Adobe Experience Cloud ソリューションの製品チームのテクニカルライター、プログラムマネージャー、または開発者が、技術記事のコントリビューションや作成を担当している場合、`https://git.corp.adobe.com/AdobeDocs` にあるプライベートリポジトリーを使用する必要があります。
+Adobe Experience Cloud ソリューションの製品チームに所属するテクニカルライター、プログラムマネージャー、デベロッパーが業務の一環として技術的記事に貢献したり技術的記事を作成したりする場合は、`https://git.corp.adobe.com/AdobeDocs` のプライベートリポジトリを使用する必要があります。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## ツールとセットアップ
 
-コミュニティのコントリビューターは、GitHub UI を使用して基本的な編集を行えます。また、リポジトリーをフォーク（コピー）して、重要なコントリビューションを行うこともできます。
+コミュニティの貢献者は、GitHub UI を使用して、基本的な編集をしたり、リポジトリをフォークしたりして、大きな貢献をすることができます。
 
-詳しくは、[アドビドキュメントのコントリビューターガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
-## マークダウンを使用してトピックのテキストを整形する方法
+## トピックをフォーマットするためのマークダウンの使用方法
 
-このリポジトリー内のすべての記事で、GitHub Flavored Markdown（GFM）を使用しています。マークダウンに詳しくない場合は、次の記事を参照してください。
+このリポジトリのすべての記事は、GitHub 固有のマークダウンを使用しています。マークダウンについて詳しくは、以下を参照してください。
 
-* [マークダウンの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [印刷可能なマークダウンクイックガイド](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [マークダウンの基本](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [印刷用マークダウンチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## ラベル
 
-パブリックリポジトリーでは、プルリクエストにラベルが自動で割り当てられるので、アドビがプルリクエストのワークフローを管理したり、リクエストした人がプルリクエストの状態を把握しやすくなります。
+パブリックリポジトリでは、アドビがプル要求ワークフローを管理したり、プル要求の状況を貢献者が把握できるようにしたりするために、プル要求に自動ラベルが割り当てられます。
 
-* **Change sent to author**：保留中のプルリクエストがオーサーに送信されました。
-* **ready-to-merge**：プルリクエストレビューチームによるレビューの準備が整いました。
+* **Change sent to author**：保留中のプル要求について作成者に通知されました。
+* **ready-to-merge**：プル要求レビューチームによるレビューの準備ができました。
